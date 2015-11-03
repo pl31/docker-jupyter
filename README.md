@@ -1,5 +1,5 @@
-docker-chrome
-=============
+docker-jupyter
+==============
 
 This is a debian image and jupyter notebook installed.
 
