@@ -8,7 +8,7 @@ Images and Tags
 
 Following images are build on [docker hub](https://hub.docker.com/r/pl31/jupyter/tags/).
 
-- `pl31/jupyter:jessie`
+- `pl31/jupyter:jessie` (`latest`)
 
 Use image
 ---------
