@@ -9,4 +9,4 @@ RUN conda update --yes --quiet --all && \
     conda env export -n root && \
     mkdir ~/notebooks
 
-ENTRYPOINT ["jupyter", "notebook", "--no-browser", "--no-mathjax", "--ip=*", "/root/notebooks"]
+ENTRYPOINT ["jupyter", "notebook", "--no-browser", "--no-mathjax", "--ip=*", "--notebook-dir=/root/notebooks"]
