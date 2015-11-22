@@ -1,4 +1,4 @@
-FROM pl31/miniconda3:jessie
+FROM pl31/miniconda3
 MAINTAINER Patrick Büch <dh@paco.pl31.de>
 
 COPY files/ /
