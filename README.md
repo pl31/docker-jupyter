@@ -3,6 +3,8 @@ docker-jupyter
 
 This is a debian image and jupyter notebook installed.
 
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg)]()
+
 Images and Tags
 ---------------
 
