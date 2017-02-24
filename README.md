@@ -3,7 +3,7 @@ docker-jupyter
 
 This is a debian image and jupyter notebook installed.
 
-[![Docker Stars](https://hub.docker.com/r/pl31/jupyter/)]()
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg)](https://hub.docker.com/r/pl31/jupyter/)
 
 Images and Tags
 ---------------
